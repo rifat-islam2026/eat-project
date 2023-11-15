@@ -1,0 +1,29 @@
+@media screen and (max-width: 800px){
+    .top-area {
+        display: flex;
+        flex-direction: column;
+    }
+    .top-area p,h1{
+        text-align: center;
+        margin: 0 auto;
+    }
+    #button{
+       margin: 50px auto;
+    }
+    .Myrecipies {
+        flex-direction: column;
+        margin-left:50px;
+    }
+    #Myrecipies h2{
+        text-align: center;
+        padding-top: 70px
+    }
+    #Myrecipies p{
+        text-align: center;
+        padding: 30px 25px;
+        margin: 0 auto;
+    }
+    .pra{
+        width: 700px;
+    }
+}
